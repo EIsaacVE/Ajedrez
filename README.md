@@ -1,2 +1,2 @@
 # Ajedrez
-Juego de Ajedrez.
+Versión beta de un juego de Ajedrez.
