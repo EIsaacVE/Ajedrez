@@ -1,0 +1,13 @@
+.centrado{
+	
+   
+    margin:auto;
+	aling:center;
+
+}
+.centrado tbody tr th
+{
+	width:50px;
+   height:30px;
+	
+}
